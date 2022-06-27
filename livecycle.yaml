@@ -11,4 +11,4 @@ web:
     output:
         type: static
         static:
-            path: /ap
+            path: /apפ
