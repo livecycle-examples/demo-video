@@ -5,7 +5,7 @@ web:
         type: Dockerfile    
         dockerfile:
             contents: |
-                        FROM alpine as build
+                        FROM alpine11111 as build
                         WORKDIR /app
                         COPY . .
     output:
